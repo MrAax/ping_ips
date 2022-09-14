@@ -1,11 +1,14 @@
 google.com
 google.co.in
 gmail.com
+youtube.com
 yahoo.com
 ymail.com
 bing.com
 hotmail.com
 github.com
 python.org
-savsol.com
-savita.com
+amazon.com
+alibaba.com
+flipkart.com
+kali.org

@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import os, ipaddress
 
 while True:
@@ -14,4 +15,4 @@ while True:
 	finally:
 		if ip == 'q':
 			print('script finished')
-			break
+		break
